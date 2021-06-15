@@ -1,4 +1,4 @@
-# ${GITHUB_REPOSITORY_NAME}
+# OpenSafely_Gitpodtest
 
 This is the code and configuration for ${GITHUB_REPOSITORY_NAME}.
 
